@@ -1,0 +1,5 @@
+site_name: Sylvia's website
+nav:
+  - Home: index.md
+  - Assignment 1: markdown_assignment.md
+theme: readthedocs
