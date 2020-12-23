@@ -1,2 +1,20 @@
+![photo of me](sylvia.JPG)
+
 # About me
-my name is sylvia.
+
+## Who am I?
+My name is Sylvia. I am a senior studying technical writing and communication at the University of Minnesota.
+
+
+## Interests
+* writing
+* painting
+* existentialism
+
+## My favorite quote
+
+> Ancora imparo.
+
+> *Still, I am learning.*
+
+> -Michelangelo

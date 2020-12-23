@@ -1,14 +1,7 @@
 ![header image](mountain.jpg)
 
-# Welcome to Sylvia's webpage :) :)
+# Welcome to Sylvia's webpage!
 
-This is more text
+This was created for WRIT 4662W - Writing with Digital Technologies, F20 with Dan Card
 
-## You get the idea 
-
-* test 2
-* test 3
-* test 1
-* test 600
-
-PLease visit my other work at [This page](https://sylviarani.github.io/Portfolio_assignment/)
+Please visit my other work at [this page](https://sylviarani.github.io/Portfolio_assignment/)
