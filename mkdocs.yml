@@ -3,5 +3,6 @@ nav:
   - Home: index.md
   - Markdown: markdown_assignment.md
   - About me: About-me.md
+  - Digital Literacy Narrative: Digital-Literacy-Narrative.md
 theme: material 
 use_directory_urls: false
