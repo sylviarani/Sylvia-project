@@ -1,3 +1,5 @@
+![header image](mountain.jpg)
+
 # Welcome to Sylvia's webpage :) :)
 
 This is more text
