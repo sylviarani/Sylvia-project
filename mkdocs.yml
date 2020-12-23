@@ -2,6 +2,6 @@ site_name: Sylvia's website
 nav:
   - Home: index.md
   - Markdown: markdown_assignment.md
-  - About me: about-me.md
+  - About me: About-me.md
 theme: material 
 use_directory_urls: false
