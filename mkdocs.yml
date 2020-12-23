@@ -3,3 +3,4 @@ nav:
   - Home: index.md
   - Assignment 1: markdown_assignment.md
 theme: readthedocs
+use_directory_urls: false
